@@ -2,7 +2,9 @@
 
 ![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Arnaud-Myxed.Arnaud-Myxed)
 
-[![Gmail Badge](https://img.shields.io/badge/-arnaud.rougetet@myxed.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaud.rougetet@myxed.eu)](mailto:arnaud.rougetet@myxed.eu)
+## ✉️ Contact
+
+[![Outlook Badge](https://img.shields.io/badge/-arnaud.rougetet@myxed.eu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:arnaud.rougetet@myxed.eu)](mailto:arnaud.rougetet@myxed.eu)
 
 ## :bar_chart: Stats
 
