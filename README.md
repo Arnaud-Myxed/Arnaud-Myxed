@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Arnaud-Myxed.Arnaud-Myxed)
+![visitor badge](https://visitor-badge.imlete.cn/?id=Arnaud58.Arnaud58&label=Unique&type=uv&color=3c7dbe)
+![visitor badge](https://visitor-badge.imlete.cn/?id=Arnaud58.Arnaud58&label=Total&color=3c7dbe)
 
 ## ✉️ Contact
 
